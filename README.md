@@ -10,8 +10,8 @@ PDF-CRUD-LARAVEL es una plicación web desarrollada en framework Laravel que con
 
 Paquete | Versión
 --- | ---
-[Node](https://nodejs.org/) | V14.19.1+
-[Npm](https://nodejs.org/)  | V6.14.16+ 
+[Node](https://nodejs.org/) | V16.17.0+
+[Npm](https://nodejs.org/)  | V8.15.0+ 
 [Composer](https://getcomposer.org/)  | V2.2.6+
 [Php](https://www.php.net/)  | V8.0.17+
 [Mysql](https://www.mysql.com/)  |V 8.0.27+
