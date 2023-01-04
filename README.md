@@ -6,6 +6,10 @@ PDF-CRUD-LARAVEL es una plicación web desarrollada en framework Laravel que con
 
 [![Alt text](https://img.youtube.com/vi/qFU8T_A_EKk/0.jpg)](https://www.youtube.com/watch?v=qFU8T_A_EKk)
 
+## Manual de uso
+
+[This is an external link to genome.gov](https://pdfhost.io/v/kWz0B3jKa_MANUAL_DE_USO_PDFCRUDLARAVEL/)
+
 ## Requerimientos
 
 Paquete | Versión
